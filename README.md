@@ -1,6 +1,6 @@
 # Healthcare Dashboard Analysis: Insights & Recommendations
 
-![Dashboard Overview](Dashbod.jpg)
+![Dashboard Overview](Dashboad.jpg)
 
 ## Key Performance Indicators
 
