@@ -1,5 +1,7 @@
 # Healthcare Dashboard Analysis: Insights & Recommendations
 
+![Dashboard Overview](Dashbod.jpg)
+
 ## Key Performance Indicators
 
 - **Total Bills**: ₹9.44M  
